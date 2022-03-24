@@ -1,0 +1,16 @@
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\bin\Debug\net5.0\WordleGame.exe
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\bin\Debug\net5.0\WordleGame.deps.json
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\bin\Debug\net5.0\WordleGame.runtimeconfig.json
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\bin\Debug\net5.0\WordleGame.runtimeconfig.dev.json
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\bin\Debug\net5.0\WordleGame.dll
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\bin\Debug\net5.0\ref\WordleGame.dll
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\bin\Debug\net5.0\WordleGame.pdb
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\WordleGame.csproj.AssemblyReference.cache
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\WordleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\WordleGame.AssemblyInfoInputs.cache
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\WordleGame.AssemblyInfo.cs
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\WordleGame.csproj.CoreCompileInputs.cache
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\WordleGame.dll
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\ref\WordleGame.dll
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\WordleGame.pdb
+C:\Users\vtche\source\Codelex-course-pro-testing\pro-testing-master\lesson_01\home_assignments\WordleGame\WordleGame\obj\Debug\net5.0\WordleGame.genruntimeconfig.cache
